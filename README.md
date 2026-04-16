@@ -1,8 +1,5 @@
 # Тестовое задание SnapJoy Games — Unity Developer
 
-**Unity 6000.2.6f2**  
-Проект демонстрирует систему взаимодействия от первого лица через одну кнопку `E`.
-
 ## Архитектура
 
 - **DI** — VContainer управляет зависимостями (`PlayerState`, `InteractionService`, `ItemHolder`, `QuestManager`).
